@@ -1,0 +1,21 @@
+* { font-family: Arial; }
+
+
+header {
+ 	text-align: center;
+}
+div {
+ 	margin: 0; padding: 0;
+}
+.container {
+	width: 1200px;
+	margin: 0 auto;
+}
+.wrap {
+	margin: 10px auto;
+	width: 1200px;
+}
+.square {
+	float: left;
+	border: 1px solid #61FF87;
+	background: #FFEE50;}
