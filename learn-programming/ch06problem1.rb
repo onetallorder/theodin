@@ -2,7 +2,7 @@
 
 beer = 99
 
-while beer >= 1
+while beer != 0
 	puts beer.to_s + ' bottles of beer on the wall!'
 	puts beer.to_s + ' bottles of beer!'
 	beer = beer - 1
