@@ -6,3 +6,4 @@
 + Google Homepage
 + Project Euler Javascript Problems
 + Sketch App
++ Problems from "Learn Programming" by Chris Pine
