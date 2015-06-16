@@ -7,3 +7,5 @@
 + Project Euler Javascript Problems
 + Sketch App
 + Problems from "Learn Programming" by Chris Pine
++ Blog made with Ruby on Rails
++ Ruby Building Blocks Problems
